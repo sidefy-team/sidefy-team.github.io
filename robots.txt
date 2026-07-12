@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://sidefyapp.com/sitemap-index.xml
-
+Sitemap: https://sidefy.locusable.com/sitemap-index.xml
